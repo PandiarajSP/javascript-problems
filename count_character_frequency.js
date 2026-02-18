@@ -1,4 +1,4 @@
-let str = "pandiaraj";
+let str = "india";
 let obj = {};
 for (let i of str) {
     if (obj[i])
